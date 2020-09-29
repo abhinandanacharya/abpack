@@ -1,5 +1,5 @@
 <?php
-namespace Abpackage\login;
+namespace abLogin\Abpackage\login;
 class Login
 {
  public $host;
