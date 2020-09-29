@@ -2,7 +2,7 @@
     "name": "achar/ab-login-1.0",
     "description": "this library genetates a php login form for you.",
     "type": "library",
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "Acharya Abhinandan",

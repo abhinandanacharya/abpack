@@ -1,14 +1,14 @@
 <?php
-namespace AbLogin;
+namespace Abpackage\login;
 class Login
 {
-   public $host;
-   public $user;
-   public $pass;
-   public $database;
-   public $conn;
-   public function __construct($host,$user,$pass,$database)
-   {
+ public $host;
+ public $user;
+ public $pass;
+ public $database;
+ public $conn;
+ public function __construct($host,$user,$pass,$database)
+ {
     $this->host = $host;
     $this->user = $user;
     $this->pass = $pass;
